@@ -1,0 +1,28 @@
+p{
+    color:chocolate;
+}
+a{
+    text-decoration:none;
+    color:green;
+}
+th{
+    color:orange;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  } 
+
+ /* p{
+    color:salmon
+ }  */
+
+ #id1{
+    background-color: aqua;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ img{
+    border-radius: 300px;
+ }
+
+ 
